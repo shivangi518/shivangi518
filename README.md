@@ -1,10 +1,8 @@
 <h1 align="center">Shivangi Padhi</h1>
 
-<h3 align="center">
-👩‍💻 Future-Ready Data & ML Professional<br>
-📊 Skilled in Python, Data Analytics & Predictive Modeling<br>
-🔍 Passionate about transforming raw data into real insights<br>
-</h3>
+<p align="center">
+  <i>Data & ML Professional • Python • Predictive Insights • Open to Opportunities</i>
+</p>
 
 <p align="center">
   <!-- Core identity badges -->
