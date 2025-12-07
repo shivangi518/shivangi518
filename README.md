@@ -1,6 +1,6 @@
 <!-- 🌌 Neon AI Universe Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWoMyD6/giphy.gif" alt="AI • ML • Data • Neon Galaxy Banner" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/225223300-dda8311c-e60b-43f5-b51c-2244cdc183d8.png" alt="AI • ML • Data • Professional Banner" width="100%" />
 </p>
 
 <h1 align="center">✨ Hi, I'm <b>Shivangi Padhi</b></h1>
@@ -25,21 +25,6 @@
 - ✈️ **Key Project:** Aircraft Engine Fault / Remaining Useful Life prediction using **NASA C-MAPSS** dataset  
 - 🎯 **Objective:** AI/ML internships & real-world data projects in predictive modelling and analytics  
 - 📄 **Resume:** Available upon request  
-
----
-
-## 🎨 AI & Color Theme
-
-<p align="center">
-  <!-- AI neon gradient strip -->
-  <img src="https://img.shields.io/badge/Theme-Neon_Purple_×_Teal_×_Pink-%238A2BE2?style=for-the-badge" alt="Theme Badge" />
-</p>
-
-- Neon **purple** for AI & creativity  
-- **Teal** for data, clarity & structure  
-- **Pink / magenta** for energy and uniqueness  
-
-> Your profile uses a clean, high-contrast palette similar to modern AI dashboards, combined with custom Shields.io badges for a unique look.
 
 ---
 
