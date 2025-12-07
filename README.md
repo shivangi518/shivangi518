@@ -1,8 +1,11 @@
 <h1 align="center">Shivangi Padhi</h1>
 
-<p align="center">
-  <i>Data & ML Professional • Python • Predictive Insights • Open to Opportunities</i>
-</p>
+<h3 align="center">
+👩‍💻 Future-Ready ML & Data Professional<br>
+📊 Python • Data Analytics • Predictive Modeling<br>
+🔍 Data Insights & Real-world Impact<br>
+🤝 Open to Internships & Collaboration
+</h3>
 
 <p align="center">
   <!-- Core identity badges -->
