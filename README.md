@@ -1,7 +1,7 @@
 <h1 align="center">Shivangi Padhi</h1>
 
 <p align="center">
-  <i>📊 Data Analysis | 🔬 Data Science | 🧠 AI Learning</i>
+<i>📊 Data Analysis | 🔬 Data Science & ML | 🧠 AI Learning</i>
 </p>
 
 <p align="center">
