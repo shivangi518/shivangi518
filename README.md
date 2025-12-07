@@ -4,7 +4,6 @@
 👩‍💻 Future-Ready Data & ML Professional<br>
 📊 Skilled in Python, Data Analytics & Predictive Modeling<br>
 🔍 Passionate about transforming raw data into real insights<br>
-🤝 Open to Internships | Team Projects | Industry Collaboration
 </h3>
 
 <p align="center">
