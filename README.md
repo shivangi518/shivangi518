@@ -1,11 +1,10 @@
-<!-- 🌌 Neon AI Universe Banner -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225223300-dda8311c-e60b-43f5-b51c-2244cdc183d8.png" alt="AI • ML • Data • Professional Banner" width="100%" />
-</p>
+<h1 align="center">Shivangi Padhi</h1>
 
-<h1 align="center">✨ Hi, I'm <b>Shivangi Padhi</b></h1>
 <h3 align="center">
-  BCA 2nd Year @ IQ5 University • AI & Machine Learning Student • Python & Data Enthusiast
+👩‍💻 Future-Ready Data & ML Professional<br>
+📊 Skilled in Python, Data Analytics & Predictive Modeling<br>
+🔍 Passionate about transforming raw data into real insights<br>
+🤝 Open to Internships | Team Projects | Industry Collaboration
 </h3>
 
 <p align="center">
@@ -20,7 +19,7 @@
 
 ## 🚀 Quick Recruiter Snapshot
 
-- 🧑‍🎓 **Current Status:** BCA 2nd year student at **IQ5 University**, passionate about AI, ML & data  
+- 🧑‍🎓 **Current Status:** BCA 2nd year student at **ICFAI University**, passionate about AI, ML & data  
 - 🧠 **Core Skills:** C · Python · SQL · R · Machine Learning · Data Analysis  
 - ✈️ **Key Project:** Aircraft Engine Fault / Remaining Useful Life prediction using **NASA C-MAPSS** dataset  
 - 🎯 **Objective:** AI/ML internships & real-world data projects in predictive modelling and analytics  
@@ -45,7 +44,9 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-%236C63FF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML" />
   <img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/Matplotlib-%2305694F?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
 ---
